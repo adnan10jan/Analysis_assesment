@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MapUp - Python Assessment
 
@@ -143,3 +144,6 @@ For each unique (`id_start`, `id_end`) pair, cover a full 24-hour period (from 1
 
 Sample result dataframe:\
  ![Task 2 Question 5](readme_images/task2-q5.png)
+=======
+# Analysis_assesment
+>>>>>>> origin/main
